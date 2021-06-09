@@ -46,4 +46,4 @@ const AddUserForm = ({onAdd}) => {
     )
 }
 
-export default AddUserForm
+export default AddUserForm;
