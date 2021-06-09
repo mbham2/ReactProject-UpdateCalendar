@@ -9,10 +9,10 @@
       "reminder": true
     },
     {
-      "sName": "sdsdsd",
-      "cTime": "dsd",
-      "exams": "dsdsd",
-      "hWork": "dsdsd",
+      "sName": "Math 101",
+      "cTime": "Monday 3-4 pm",
+      "exams": "alter native Tuesday time TBD",
+      "hWork": "Wednesday 11:59pm",
       "reminder": true,
       "id": 2
     }

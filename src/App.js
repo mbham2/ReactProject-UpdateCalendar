@@ -77,7 +77,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <Header title="Subject Calender" onAdd={() => setShowAddData(!showAddData)} showAdd={showAddData} />
+      <Header title="Subject Calendar" onAdd={() => setShowAddData(!showAddData)} showAdd={showAddData} />
       <div className="flex-row">
         <div className="flex-large">
           {datas.length > 0 ? <CDetails datas={datas} onDelete={deleteClass} onToggle={toggleReminder} /> : 'No Subject'}
