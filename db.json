@@ -1,0 +1,20 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "sName": "Bio 102",
+      "cTime": "Monday 1-2",
+      "exams": "Tuesday 7-8",
+      "hWork": "Monday 3:00 pm",
+      "reminder": true
+    },
+    {
+      "sName": "sdsdsd",
+      "cTime": "dsd",
+      "exams": "dsdsd",
+      "hWork": "dsdsd",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
