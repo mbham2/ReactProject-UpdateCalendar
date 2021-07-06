@@ -13,12 +13,11 @@ code {
 }
 
 .container {
-  max-width:1200px;
+  max-width:auto;
   padding:0 1rem;
-  margin-left:30px;
+  margin-left:40px;
   margin-right:auto;
-  
-  }
+    }
 
   h1{
     font-size:2rem;
@@ -62,12 +61,13 @@ code {
     margin:0;
     justify-items: center;
     align-items: center;
+    width:auto;
   }
 
   .subject {
     background:#f4f4f4;
     margin-top:50px;
-    margin-left:100px;
+    margin-left:50px;
     padding:10px 20px;
     cursor: pointer;
     float:left;
@@ -109,4 +109,11 @@ code {
     flex:2;
     height:20px;
     margin:20px 200px 0 0;
+  }
+
+  @media screen and (min-width: 300px) {
+    .container {
+      max-width:100%;
+     
+           }
   }
